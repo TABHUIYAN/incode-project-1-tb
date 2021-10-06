@@ -1,0 +1,54 @@
+body{
+    background-color: aliceblue;
+}
+#home{
+    width:650px;
+    height: 650px;
+
+}
+/* div{
+    background-color: #ce859753;
+} */
+
+.topnav{ 
+    background-color: rgb(182, 153, 74);
+    border-color: #333;
+    overflow: hidden;
+}
+.topnav a {
+    float: left;
+    color: #0a0606;
+    text-align: center;
+    padding: 14px 16px;
+    font-weight: 300;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  /* Change the color of links on hover */
+.topnav a:hover {
+    background-color: rgb(199, 224, 224);
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: rgb(192, 59, 59);
+  }
+  footer{
+      background-color: rgb(182, 153, 74);
+      text-align: center;
+  }
+img{
+   width: inherit;
+    height: 650px;
+}
+iframe{
+    width:600px; 
+    height:400px;
+}
+.mapouter{
+    position:relative;
+    text-align:right;
+    height:500px;
+    width:600px;}
