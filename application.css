@@ -1,22 +1,25 @@
 body{
     background-color: aliceblue;
 }
-#home{
-    width:650px;
-    height: 650px;
-
+#logo{
+    padding: 1px 1px 1px 1px;
+    width: 150px;
+    height: 50px; ;
 }
+
+
+
 /* div{
     background-color: #ce859753;
 } */
 
 .topnav{ 
-    background-color: rgb(182, 153, 74);
+    background-color: slategrey;
     border-color: #333;
     overflow: hidden;
 }
 .topnav a {
-    float: left;
+    float: right;
     color: #0a0606;
     text-align: center;
     padding: 14px 16px;
@@ -36,7 +39,7 @@ body{
     color: rgb(192, 59, 59);
   }
   footer{
-      background-color: rgb(182, 153, 74);
+      background-color:slategrey;
       text-align: center;
   }
 img{
